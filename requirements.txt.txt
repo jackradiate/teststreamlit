@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+duckdb
+colorama
+icecream
+openpyxl
+plotly
